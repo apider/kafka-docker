@@ -9,12 +9,12 @@ Meant to run on one and same docker host.
 One Zookepper & 2 kafka brokers.
 
 #### zookeeper
-port: 2181
+Zookeper: hostname: zookeper, port: 2181
 
 #### Brokers
-kafka1: port: 9092
+Broker1: hostname: kafka1, port: 9092
 
-kafka2: port: 9093
+Broker2: hostname: kafka2, port: 9093
 
 ## Links
 https://github.com/wurstmeister/kafka-docker
