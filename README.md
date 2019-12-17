@@ -6,7 +6,7 @@ Meant to run on one and same docker host.
 
 ### Spins up:
 
-One Zookepper & 2 kafka brokers.
+One Zookeeper & 2 kafka brokers.
 
 #### zookeeper
 Zookeper: hostname: zookeper, port: 2181
