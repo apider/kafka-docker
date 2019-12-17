@@ -13,6 +13,7 @@ port: 2181
 
 #### Brokers
 kafka1: port: 9092
+
 kafka2: port: 9093
 
 ## Links
