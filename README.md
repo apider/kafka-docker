@@ -10,7 +10,7 @@ Meant to run on one and same docker host.
 One Zookeeper & 2 kafka brokers.
 
 #### Requires
-Requires DNS records of kafka1 & kafka2, otherwise they will not find each other.
+Requires DNS records of kafka1 & kafka2, pointing to the IP of docker host, otherwise they will not find each other.
 
 Guess you could also do it with host entries in /etc/hosts in the broker containers in case no local DNS service is available...
 
