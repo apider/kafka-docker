@@ -16,6 +16,9 @@ Broker1: hostname: kafka1, port: 9092
 
 Broker2: hostname: kafka2, port: 9093
 
+## Topics
+Also creates a 'test' topic with 2 partitions and 2 replicas.
+
 ## Links
 https://github.com/wurstmeister/kafka-docker
 
